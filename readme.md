@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">Apollo Server Express, Prisma Client, Docker, Postgresql</h1>
+    <h1>Apollo Server Express, Prisma Client, Docker, Postgresql</h1>
     <p>
     Scaffold project Node Js Server with Apollo Server and GraphQL
     Is a skeleton [Apollo Server](https://www.apollographql.com) application best for
