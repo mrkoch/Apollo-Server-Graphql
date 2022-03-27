@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <h1 align="center">Apollo Server Express, Prisma Client, Docker, Postgresql</h1>
     <p>
     Scaffold project Node Js Server with Apollo Server and GraphQL
