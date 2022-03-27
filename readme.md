@@ -1,16 +1,15 @@
-Scaffold project Node Js Server with Apollo Server and GraphQL
-Is a skeleton [Apollo Server](https://www.apollographql.com) application best for
-developing Graph Api Environment.
-
-<p align="center">
+<div align="center">
     <h1 align="center">Apollo Server Express, Prisma Client, Docker, Postgresql</h1>
+    <p>
+    Scaffold project Node Js Server with Apollo Server and GraphQL
+    Is a skeleton [Apollo Server](https://www.apollographql.com) application best for
+    developing Graph Api Environment.
+    </p>
     <ul>
         <li><a href="https://github.com/apollographql/apollo-server" target="_blank">Apollo Server</a></li>
         <li><a href="https://github.com/prisma/prisma" target="_blank">Prisma</a></li>
     </ul>
-    
-</p>
-## DIRECTORY STRUCTURE
+</div>
 
 ```
 DOCKER POSTGRESQL 12
