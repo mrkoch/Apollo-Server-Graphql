@@ -1,0 +1,23 @@
+version: "3.2"
+
+services:
+  #  mysql:
+  #    image: mysql:5.7
+  #    environment:
+  #      - MYSQL_ROOT_PASSWORD=verysecret
+  #      - MYSQL_DATABASE=yii2advanced
+  #      - MYSQL_USER=yii2advanced
+  #      - MYSQL_PASSWORD=secret
+
+  pgsql:
+    image: postgres:12
+    restart: always
+    container_name: postgres_112
+    ports:
+      - 5442:5432
+    environment:
+      - POSTGRES_DB=apollo_db
+      - POSTGRES_USER=apollouser
+      - POSTGRES_PASSWORD=apollopassword
+    volumes:
+      - ./postgres/data:/var/lib/postgresql/data:rw
