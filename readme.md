@@ -1,6 +1,6 @@
-Scaffold project Node Js Server with Apollo Server and GraphQl
+Scaffold project Node Js Server with Apollo Server and GraphQL
 Is a skeleton [Apollo Server](https://www.apollographql.com) application best for
-developing RestFul Api Environment.
+developing Graph Api Environment.
 
 <p align="center">
     <h1 align="center">Apollo Server Express, Prisma Client, Docker, Postgresql</h1>
